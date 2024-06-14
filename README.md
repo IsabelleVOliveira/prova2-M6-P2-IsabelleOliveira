@@ -39,18 +39,16 @@ NN Linear
 Filtros de correlação cruzada
 Classifique-os (coloque em ordem) em termos de viabilidade técnica (se é possível resolver o problema), facilidade de implementação e versatilidade da solução. Justifique sua classificação.
 
-
 **Viabilidade técnica**
 - Filtros de correlação cruzada
 - CNN
 - NN Linear
 - HAAR Cascade
 
-
 Filtros de correlação cruzada são os algoritmos com maior precisão e assertividade, sendo capaz de realizar detecção de objetos em tempo real em uma única passagem pela rede neural. A abordagem de um modelo unificado também reduz a carga computacional e melhora a velocidade de processamento.
 
 
-CNN foi considerado o com maior viabilidade técnica pela alta eficácia para processamento de imagens além da capacidade de aprender características de baixo nível, como bordas e texturas, e características de alto nível, como faces.
+CNN é considerado de alta eficácia para processamento de imagens além da capacidade de aprender características de baixo nível, como bordas e texturas, e características de alto nível, como faces.
 
 
 NN Linear é muito versátil e permite a aplicação em aprendizado profundo. O que traz maior precisão na detecção de imagens já que é possível criar várias camadas na rede neural e determinação dos pesos e vieses em cada camada.
@@ -58,8 +56,8 @@ NN Linear é muito versátil e permite a aplicação em aprendizado profundo. O 
 
 HAAR Cascade tem uma boa precisão nas análises e é relativamente rápido e eficiente em termos de recursos computacionais. Por outro lado, ele requer um ou mais arquivos xml com os dados relacionados ao que deve ser identificado e tem dificuldades em detectar objetos em diferentes orientações ou em condições muito complexas de fundo e iluminação.
 
-
 **Facilidade de implementação**
+
 - HAAR Cascade
 - Filtros de correlação cruzada
 - NN Linear
@@ -79,7 +77,6 @@ CNN é o mais complexo já que é necessário a criação de uma série de camad
 
 
 **Versatilidade da solução**
-
 
 - CNN
 - NN Linear
