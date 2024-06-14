@@ -18,7 +18,7 @@ Clone o repositorio com o comando de terminal: `git clone https://github.com/Isa
 
 Para executar a análise computacional e salvar o vídeo com as análises feitas: `python3 main.py`
 
-O funcionamento desses códigos foram demonstrados no vídeo a seguir:https://drive.google.com/file/d/1RZH4H6AZB1VCS8iphDHVQUd5DEv4FUQq/view?usp=sharing
+O funcionamento desse código foi demonstrado no vídeo a seguir:https://drive.google.com/file/d/1RZH4H6AZB1VCS8iphDHVQUd5DEv4FUQq/view?usp=sharing
 
 # 2. Perguntas técnicas
 
